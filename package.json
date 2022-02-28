@@ -20,5 +20,8 @@
   "homepage": "https://github.com/DevShawe/node-express-course#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
